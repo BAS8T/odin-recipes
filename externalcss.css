@@ -1,0 +1,16 @@
+* {
+    background-color:blanchedalmond
+}
+
+.H1Text {
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: lighter;
+    font-size: 65px;
+    text-decoration: overline;
+    color: navy;    
+}
+
+a {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}

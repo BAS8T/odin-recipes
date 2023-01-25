@@ -1,0 +1,27 @@
+* {
+    background-color:blanchedalmond
+}
+
+.HMAIN {
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: navy;
+    text-decoration: underline;
+}
+
+.HCTS {
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: navy;
+    font-size: 20px;
+}
+
+img {
+    max-width: 500px;
+    max-height: 500px;
+}
+
+p,
+li {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
